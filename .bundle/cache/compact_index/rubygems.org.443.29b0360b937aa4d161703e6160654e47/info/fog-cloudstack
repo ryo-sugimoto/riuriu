@@ -1,0 +1,2 @@
+---
+0.1.0 fog-core:~> 2.1,fog-json:~> 1.1,fog-xml:~> 0.1|checksum:13efccf314d0cbb851344b7cc719c6eb117915a6afbc2eb86579e584b68edcd0,ruby:>= 2.0.0

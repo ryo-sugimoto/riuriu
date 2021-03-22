@@ -1,0 +1,5 @@
+---
+0.0.1 |checksum:b5a0a3f2597ce29f83d93cc91d2046cc76ddc7a885ec22f904996f8b818c2b02
+1.0.0 fog-core:~> 1.38,fog-json:~> 1.0|checksum:5c17337fb17bbf460601e50f07bbfd511633a3700c731d787cd52bfe20397d6e
+2.0.0 fog-core:< 3&>= 1.38,fog-json:~> 1.0|checksum:7a14d8ec5f95a2d41a65c5c45c5f93496f37fde74352cc2956178379da76e4e6
+2.1.0 fog-core:< 3&>= 1.38,fog-json:>= 0|checksum:c3a8df8b7613f0b7ee86e5c179ae143dbd8797ab67012ea1124699c4019b7f51,ruby:>= 2.1

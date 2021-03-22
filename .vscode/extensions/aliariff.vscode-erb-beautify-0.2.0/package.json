@@ -1,0 +1,87 @@
+{
+	"name": "vscode-erb-beautify",
+	"displayName": "ERB Formatter/Beautify",
+	"description": "Format/Beautify ERB files",
+	"version": "0.2.0",
+	"publisher": "aliariff",
+	"license": "MIT",
+	"bugs": "https://github.com/aliariff/vscode-erb-beautify/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aliariff/vscode-erb-beautify"
+	},
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Formatters"
+	],
+	"activationEvents": [
+		"onLanguage:erb"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"languages": [
+			{
+				"id": "erb",
+				"aliases": [
+					"ERB"
+				],
+				"extensions": [
+					".erb",
+					".html.erb"
+				]
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "VSCode ERB Beautify configuration",
+			"properties": {
+				"vscode-erb-beautify.tabStops": {
+					"type": "number",
+					"default": 2,
+					"description": "Set number of spaces per indent (default 2)"
+				},
+				"vscode-erb-beautify.tab": {
+					"type": "boolean",
+					"default": false,
+					"description": "Indent using tabs"
+				},
+				"vscode-erb-beautify.indentBy": {
+					"type": "number",
+					"default": 0,
+					"description": "Indent the output by NUMBER steps (default 0)"
+				},
+				"vscode-erb-beautify.stopOnErrors": {
+					"type": "boolean",
+					"default": false,
+					"description": "Stop when invalid nesting is encountered in the input"
+				},
+				"vscode-erb-beautify.keepBlankLines": {
+					"type": "number",
+					"default": 0,
+					"description": "Set number of consecutive blank lines (default 0)"
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^8.10.38",
+		"tslint": "^5.8.0",
+		"typescript": "^2.6.1",
+		"vscode": "^1.1.21"
+	},
+	"__metadata": {
+		"id": "4bae79e0-35d7-4b4f-9ead-27fe376b4e78",
+		"publisherId": "4e70d0d7-1aa8-4284-b1f9-f6049660d81d",
+		"publisherDisplayName": "Ali Ariff"
+	}
+}
