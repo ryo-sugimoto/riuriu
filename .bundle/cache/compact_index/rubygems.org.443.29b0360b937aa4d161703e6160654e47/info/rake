@@ -82,3 +82,5 @@
 13.0.0.pre.1 |checksum:0976e0a51d1420686cd3adaac3e92850e3b660b5ed4bb25fd9ca235f062ba808,ruby:>= 2.2,rubygems:>= 1.3.2
 13.0.0 |checksum:06195347674818f4979ba22561a24b9d07f692758e4aabe5bcb12da55e058816,ruby:>= 2.2,rubygems:>= 1.3.2
 13.0.1 |checksum:292a08eb3064e972e3e07e4c297d54a93433439ff429e58a403ae05584fad870,ruby:>= 2.2,rubygems:>= 1.3.2
+13.0.2 |checksum:fb0b9e1628ce246eb7fbd95d0737be1ac3b03823991d7cfccf6bd28768498861,ruby:>= 2.2,rubygems:>= 1.3.2
+13.0.3 |checksum:c728b33a5bd09534290a700ff17dc0b34d6d32aae23a34f463c4cfe4aa2833c6,ruby:>= 2.2,rubygems:>= 1.3.2

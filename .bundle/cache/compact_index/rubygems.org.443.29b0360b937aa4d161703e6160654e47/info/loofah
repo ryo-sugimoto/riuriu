@@ -35,3 +35,6 @@
 2.5.0 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:80009b1f65d6f3e8a9a7d6ef7957fbe768b5f15c2f848affc6eb7b55ec73694a
 2.6.0 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:62f9bab371b3ee82f70f2518ab9e42fdd8a786cdd17f3b32dee5197b17c230e9
 2.7.0 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:f8b38df4dfa0dca45230c06ae55916c5e5940441237f7d31087cc1994d0f9faa
+2.8.0 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:f06b481765062d84a0e494794ef1c8849a8164c8f1ac8c11cc6e8e6972acb159
+2.9.0 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:93f908512a878ba04fa5e0a0da414cbe8884869e488077c70dfc741a77dffc2f
+2.9.1 crass:~> 1.0.2,nokogiri:>= 1.5.9|checksum:273e5acaa8c64a948bf6279112b08fdd3cb1d470e24cd23a12b78482625c35f1

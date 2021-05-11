@@ -85,3 +85,4 @@
 6.1.2 |checksum:eb137e70b3dc012cb5550c4dd9d0b8083502cacc4b07b514891052ac6f4b037e,ruby:>= 2.2.2,rubygems:>= 2.2
 6.2.0 |checksum:292ec1e7cc1ac2dc7828bbd66180c53d64800a660105907ea22f93d607d307be,ruby:>= 2.2.2,rubygems:>= 2.2
 6.2.1 |checksum:0c3a458ce536b907839125263129bd9d488ec5be44552ec643b29c1272150621,ruby:>= 2.4.0,rubygems:>= 2.2
+6.3.0 |checksum:847dd20651136ceb7ce1bfcf12cec7b681ad9e4195ebcf71300105d74422e1e7,ruby:>= 2.4.0,rubygems:>= 2.2

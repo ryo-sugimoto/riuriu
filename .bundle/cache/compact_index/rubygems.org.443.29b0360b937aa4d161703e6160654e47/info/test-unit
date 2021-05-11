@@ -70,3 +70,8 @@
 3.3.4 power_assert:>= 0|checksum:df3c6011c7d66fe37557bd6cb1f69ab57a3201118aa909c8099a81cfcdba3357
 3.3.5 power_assert:>= 0|checksum:3e87e91f1f9604d3b99e9ce62089b211f9421b9baf29b2ffd241992594c1a949
 3.3.6 power_assert:>= 0|checksum:c75551c52e8356a74d943d7d9f86321e58ec5cf0fcbb3798a725d06222b4a946
+3.3.7 power_assert:>= 0|checksum:e5c83c87e8cc8b08e3bdb52cf45af9ed2fb9427b6481f5921c384569dafa7bd9
+3.3.8 power_assert:>= 0|checksum:803c714ccea88ea7ec2d0c96fa16a643065b0d2350c9c48ce8f4ffefc34c4a8f
+3.3.9 power_assert:>= 0|checksum:d5a87ff380df69418912d175695ad34fbd4708ab01526a526e8c0b9c0a2c3ccd
+3.4.0 power_assert:>= 0|checksum:15c5002e9be8b40604a7dd3f34485793406a3982a83ca25a6c9058f787180cc0
+3.4.1 power_assert:>= 0|checksum:8447f58b8ef0e5b072906f0cb3167d28658198416c99d730bddddf8ed4f8bd61

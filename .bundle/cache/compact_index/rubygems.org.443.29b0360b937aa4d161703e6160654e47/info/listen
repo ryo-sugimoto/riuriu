@@ -97,3 +97,14 @@
 3.1.5 rb-fsevent:>= 0.9.4&~> 0.9,rb-inotify:>= 0.9.7&~> 0.9,ruby_dep:~> 1.2|checksum:bd9ab5f1615a7e491a2251c09f0fae9407ab3bd7650bdb517dda54ec6cae6507,ruby:>= 2.2.3&~> 2.2
 3.2.0 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:cbeae310988797899e3f88da03c4781f9d84120c8da792d6834e8a9bef3a7ac8,ruby:>= 2.2.7&~> 2.2
 3.2.1 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:f15106ac36904b27b7540259df8596ec0d685be10d6b05fc8cfe8dd82a1f22f1,ruby:>= 2.2.7&~> 2.2
+3.3.0.pre.2 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:dfc05def9e426a8b60e9faef8548b6294745cb98b0bc4df4a15b8181e5d983fe,ruby:>= 2.2.7,rubygems:> 1.3.1
+3.3.0.pre.3 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:5ae8feb807ab68f5fe02312b084e54fd29ad15424bd6b09927f34fc3092a975a,ruby:>= 2.2.7,rubygems:> 1.3.1
+3.3.0 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:0f91c5287358feee216f41e00a5b70ec125dd5c1d8fe51a014e864a29842041f,ruby:>= 2.2.7
+3.3.1 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:797a641d1ec29d9c575c4de91cd3e11c55fd5daf0dcb4b2be1fb1aad5db84800,ruby:>= 2.2.7
+3.3.2 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:335a0bd63d8e83fec14826a83b125ac74381d50f533d90bb89f5f8291f5d976e,ruby:>= 2.2.7
+3.3.3 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:0ae6949b576b58f6fe1b8f1631024d6f7bb9d83086add585df7c8c77147cecfe,ruby:>= 2.2.7
+3.3.4 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:787f93e19ada4b7ba9debb08509931759ca65800a1eda7985d9d74aa9810cdcf,ruby:>= 2.2.7
+3.4.0 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:17ed2bbcc81414ddc10cc3148d6d088da9923f3b057b2cc7736974adabe1131a,ruby:>= 2.2.7
+3.4.1 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:12a6fc907bb028acb1329fe8a76ffaa4f2b003bc99d0f7fc6093eeb41868bf46,ruby:>= 2.2.7
+3.5.0 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:c5742f46803e80fc5b7a99ce1a0e440effa7b8e3b96e95fa7ca61f1a3ac935e4,ruby:>= 2.2.7
+3.5.1 rb-fsevent:>= 0.10.3&~> 0.10,rb-inotify:>= 0.9.10&~> 0.9|checksum:d2f6425068347454936c75bf3b9fc0f925b40d17ba7df752031c8c083b195b40,ruby:>= 2.4.0

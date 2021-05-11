@@ -82,3 +82,9 @@
 3.1.0-x86-mingw32 |checksum:2453109c60cd74c097d4570043c6c1c8ebf3161fc437672e585d88b690cd91c7,ruby:< 2.6&>= 2.3
 3.2.0 |checksum:b896027249300cbc15e03c64a28fef6983458c572306bb86326d27394faf8e39,ruby:>= 2.4.0
 3.2.0-java jar-dependencies:>= 0.1.7|checksum:79ab89dddecaf03828922068035d2dac61a648f79b182648523dd027151c292e,ruby:>= 2.4.0
+3.2.1 |checksum:0236a5b255e0a26ca9c640e3422c13d17dca72afd4aa68109be09c410a67805f,ruby:>= 2.4.0
+3.2.1-java jar-dependencies:>= 0.1.7|checksum:7f3427f44d7361c309bfa140446f2d52658bb5334d5e5471727c34831efb48e0,ruby:>= 2.4.0
+3.3.0 |checksum:14c0a2e194ae1b1c1ca96b10b4e8c36af1642dbf4fef25a6518d9b47706a1965,ruby:>= 2.4.0
+3.3.0-java jar-dependencies:>= 0.1.7|checksum:8308aa5998667aba6fd4636ded57c5d0dc47bdcb9c4d9be4ef134d3e75428612,ruby:>= 2.4.0
+3.3.1 |checksum:2a01e5eb59b1a80d287f0b5e3c980eca5e5609c811eb7f7ee0f7564254dac48a,ruby:>= 2.4.0
+3.3.1-java jar-dependencies:>= 0.1.7|checksum:de1c962898f84b925e207a163b8b6e9fe7c00d59ff39dbb5d545d4b1d5fb49e8,ruby:>= 2.4.0

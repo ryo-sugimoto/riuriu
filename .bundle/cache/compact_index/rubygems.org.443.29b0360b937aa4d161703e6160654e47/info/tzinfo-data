@@ -51,3 +51,6 @@
 1.2020.2 tzinfo:>= 1.0.0|checksum:80ed1ceb553b01bb05a9200c617dea23ed1dd4dafb28d9dab2c881a81227b417,ruby:>= 1.8.7
 1.2020.3 tzinfo:>= 1.0.0|checksum:eb9340c51d8c18d30928bf74f02c975aceffec1dd8b7af8842ae4418d9d399ec,ruby:>= 1.8.7
 1.2020.4 tzinfo:>= 1.0.0|checksum:8ad47671aa61752f7e74cddcffac270ac4ba719349e5032cd65cbac7ec525609,ruby:>= 1.8.7
+1.2020.5 tzinfo:>= 1.0.0|checksum:84e367eaec8b5484e8b6abfbe1edc25cb9abeac27dad57db4e537fcabc75c81b,ruby:>= 1.8.7
+1.2020.6 tzinfo:>= 1.0.0|checksum:c4c94970cbf060933761ad6c645d8a915a71169551f570ee2e418eafc57b2d8c,ruby:>= 1.8.7
+1.2021.1 tzinfo:>= 1.0.0|checksum:82938b30bba242fe754446278738a669188cbe2e9950fe651a4764af2d356146,ruby:>= 1.8.7

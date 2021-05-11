@@ -38,3 +38,8 @@
 3.0.7 rails:>= 3.2.0|checksum:467c157d7de32f9a8c549a4ee43e19d8a3cac89a8f879e6ac47063e181af7bdb
 3.0.8 rails:>= 3.2.0|checksum:10cea496bc2fb9e88f58e58504e16ed88c37bfb307dc0970a4d24e195baf5204
 3.0.9 rails:>= 3.1.0|checksum:ef39e1dc4671a81cb729ae1d5b6d08da22dc68c2b375f806d913836bc288ec85
+4.0.0 rails:>= 5.1|checksum:9cf9fb02311b16b37aa01383148666b06401c12cc53d685c3ae3e9ae7470cc17
+4.0.1 rails:>= 5.1|checksum:c3c13e76e5bd86d0a4ced88ce54c3d2ea7e9edd29c82448e1bae96ebb4913c86
+4.0.2 rails:>= 5.1|checksum:15e57355770515563d4cf4c13d8718eed858890191ecaa105586b87ad57ec593
+4.1.0 actionview:< 7.0&>= 5.1,railties:< 7.0&>= 5.1|checksum:5cf342492c9d6122bacfa8f2ffee413f74a4658116fc9cd237b8c976c2d72b87
+4.2.0 actionview:< 7.0&>= 5.1,railties:< 7.0&>= 5.1|checksum:b4fcc1595aa50f3e08534aa5047e84ce628dc5bf41d6f2da0700fda4fb0bbe6b

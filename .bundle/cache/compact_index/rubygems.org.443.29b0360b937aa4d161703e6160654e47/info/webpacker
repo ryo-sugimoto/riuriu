@@ -54,3 +54,12 @@
 5.2.0 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:ae92890afa9124ede09652bd16abd076c34c9d4068df885c861b85fac50baf2b,ruby:>= 2.4.0
 4.3.0 activesupport:>= 4.2,rack-proxy:>= 0.6.1,railties:>= 4.2|checksum:999862bf5a8dea08602f1da26806b142908be3399bdeda5622a42788422d20ba,ruby:>= 2.2.0
 5.2.1 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:bdf100d0f197316d47b1596ed516463e616824143c2f1b0ef6834b7a6fd9fef5,ruby:>= 2.4.0
+6.0.0.pre.1 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:784ad1e7b5a6d7a5d053f3edef883ae0da11752e9743741a3b12dd2ee68dc378,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.pre.2 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:b0578d4489dec362e787e399658eaa13527a14cc533217056f0503a6342b8b64,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:f95a83d1a9ce7165e1b47d59884cf355ccb95c9bc313729d8ebea71b776533a1,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.1 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:eb0db74bcd517efc7cd5569da832a55dab9e53f89793293d4cb357ca93ec5a88,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.2 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:03f82f90341925ea8daf0464144c892a463bca4f7768b9ca69d2617e4612e1a3,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.3 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:b723d130703abb3f910ade1ad30492b3392f1422d0da50598350783ad10facc8,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.4 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:234205ed284ffba44401ac7bf326cfd8e8b36627ea4c4ec47df9b0045a683e95,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.5 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:0ecd7f8b8309cf677574b578423cfe1a7bdd61aaa0a35081726fb565a91fa8a4,ruby:>= 2.4.0,rubygems:> 1.3.1
+6.0.0.beta.6 activesupport:>= 5.2,rack-proxy:>= 0.6.1,railties:>= 5.2,semantic_range:>= 2.3.0|checksum:89f4557e3a4dd461d4ad674c6a2356e5b09fb1aee606e4d3ab962248133dbd8b,ruby:>= 2.4.0,rubygems:> 1.3.1

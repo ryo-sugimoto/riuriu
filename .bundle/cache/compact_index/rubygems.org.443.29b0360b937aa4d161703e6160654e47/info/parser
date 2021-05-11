@@ -121,3 +121,5 @@
 2.7.1.4 ast:~> 2.4.1|checksum:b6629f5772e6e4d1c83ce56dfb48a20f9ad589c5462ebe751ad64db8a1fd6080,ruby:>= 2.0.0
 2.7.1.5 ast:~> 2.4.1|checksum:d4c4794be14b4ffe89510648265ebfded5da107eb571422287a4c66a08b7966e,ruby:>= 2.0.0
 2.7.2.0 ast:~> 2.4.1|checksum:dfd0e872fe3ca330cdbb9222ab14f0a2e254749f78344b791143510f4cadefb8,ruby:>= 2.0.0
+3.0.0.0 ast:~> 2.4.1|checksum:b4963d5502dc4912f4f2ec6d93f3f6d9db075bced28195032b12f8fafd543dca,ruby:>= 2.0.0
+3.0.1.0 ast:~> 2.4.1|checksum:c85b1a45f0ca95dec189e29515b1d829dd234fccef523697367dad1c13223113,ruby:>= 2.0.0

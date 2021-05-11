@@ -6,8 +6,8 @@
 1.7.0-x86-mswin32 |checksum:7a5d4b969aa07d7df221b8be4c960632fde4a714efe9de0f2df33a62403c83df
 1.8.0-x86-mswin32 |checksum:efc0b1a6e573ace50670301be7f61c345022cf845073736e8393db6c05b1efda
 1.6.1 |checksum:8e0d3b17c196ed40943b067309a33fe2b4c5f4c24a402291467e1bb8158218b1
-1.4.1 |checksum:29fbfea359434f85d35d9e2e67e2369dbbcf538be9967e1857d9a27fd8c8aabd
-1.5.0 |checksum:63047c22bd2760cf47fcdd975c84a1e453c5a07754e0e493d0da33accc9d8d87
+1.4.1 |checksum:29fbfea359434f85d35d9e2e67e2369dbbcf538be9967e1857d9a27fd8c8aabd,ruby:> 0.0.0
+1.5.0 |checksum:63047c22bd2760cf47fcdd975c84a1e453c5a07754e0e493d0da33accc9d8d87,ruby:> 0.0.0
 1.5.1 |checksum:8033d68e41619c9980d9f162c1edf4935d3b5588ff080eb58550e85321976e87
 1.6.0 |checksum:51d1d4e853c8dc76951cf14fe94ebc08bc4f4a97b4c585c5351fb3f01429d231
 1.6.1-x86-mswin32 |checksum:b921aba10ccc658866d84c9d2a3bd2c4b01c1ec752bedfaa921764725d28aa26
@@ -110,3 +110,5 @@
 1.16.4 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2|checksum:e81e58381f1d4059bdd96ae8dc6c26aa0d6169ddd1d56c035f7f79bd18157b7b
 1.16.5 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2|checksum:f11f243d74b6902bb0306c860e17b8be530883a617b0ece1abe488ab40085bba
 1.16.6 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2|checksum:8b8390d0520b7f2709d99da3bf5cee6ccd69dfa5e0c17378c272ae6895f11102,ruby:>= 2.2.1
+1.17.4 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:fb39b3e7902798025c9d82814771dd7203980cfc3155837f18659859c8fa2eb7,ruby:>= 2.2.1
+1.17.5 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:fa5ce0126c4c8bb75df1859c7e2bbbdda5bad18df7426415ee767571bf4e726d,ruby:>= 2.2.1

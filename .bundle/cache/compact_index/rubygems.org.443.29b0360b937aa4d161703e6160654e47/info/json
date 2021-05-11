@@ -115,3 +115,11 @@
 2.3.0-java |checksum:8b3b975e45ce520b513ba3992ec6d6a4ff0351bdc7229eb4a39f6e2f8e9533b3
 2.3.1 |checksum:3f9ebb42fcd46ec3ecad16c89c7b174dc539bdd353610c39c15aecca1d570e95,ruby:>= 2.0
 2.3.1-java |checksum:042143ef80ce2a3e957cfc177400f6f3e1da0839caf6c93bed526a1701f66875
+2.4.0 |checksum:601ca653b508882b402c06d2ad47269457b3acea26a6108c6fbe7161cdb454f2,ruby:>= 2.0
+2.4.0-java |checksum:a217903defa0e3a7fc9683e31d7e5c1c94d6488ed4bb71a9801756929fdc3c46,ruby:>= 2.0
+2.4.1 |checksum:f8d2ead1568e59de3d44dc4bfca9f4a93c8b73818ad7df986025fa9de2edf627,ruby:>= 2.0
+2.4.1-java |checksum:ec15fdfa6e094a9df8831dc8faf50fea5ff21f80e414c0c67aa976fc3eac351e,ruby:>= 2.0
+2.5.0 |checksum:a6b7dc79d38e3a97ad56f125180d1f785a826c55939e4fa3f713a170c97a1db0,ruby:>= 2.0
+2.5.0-java |checksum:931c4b41e76c426883cf7e6d29cddc454706e57aeee6b405f78e6184cad6bff3,ruby:>= 2.0
+2.5.1-java |checksum:be284a0c4a9d0373e81b0d5dfe71ed5b18d0479f05970e60a77be89a2978ce6c,ruby:>= 2.0
+2.5.1 |checksum:918d8c41dacb7cfdbe0c7bbd6014a5372f0cf1c454ca150e9f4010fe80cc3153,ruby:>= 2.0

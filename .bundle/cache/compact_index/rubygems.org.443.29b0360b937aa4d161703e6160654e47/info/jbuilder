@@ -75,3 +75,7 @@
 2.9.1 activesupport:>= 4.2.0|checksum:27a7fb295282abd03fea2cdf9411b7d7de3e9728ba909aefa6a0392898fe4d0d,ruby:>= 1.9.3
 2.10.0 activesupport:>= 5.0.0|checksum:0ee4647ee05af8677a28316cb05fa046084e7e5f15a04623c09676d5ddcdbf70,ruby:>= 2.2.2
 2.10.1 activesupport:>= 5.0.0|checksum:757106c427e539bdc9cd4fc88e483a9c7af57736fb4ba4fb9de94b309e7e940a,ruby:>= 2.2.2
+2.10.2 activesupport:>= 5.0.0|checksum:cde29e132d9af8e69bdfeec3a4f09af7e98f1f61fd09825b64918d0359f3b73b,ruby:>= 2.2.2
+2.11.0 activesupport:>= 5.0.0|checksum:6a8c552c12eec2365d7cf70757901ea2200f0b32a69062abfdf0584a6dd33c21,ruby:>= 2.2.2
+2.11.1 activesupport:>= 5.0.0|checksum:a69946e260f8f19b5728b21566752c359660ebad521ec77d0ad2ac5f216fa054,ruby:>= 2.2.2
+2.11.2 activesupport:>= 5.0.0|checksum:175ada49d36f8e48b072657ccc36fc06fa9dc8b4c8faaab4f82bdc45cbdde0ef,ruby:>= 2.2.2

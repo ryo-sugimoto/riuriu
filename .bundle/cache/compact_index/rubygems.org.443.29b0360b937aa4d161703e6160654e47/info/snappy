@@ -25,3 +25,7 @@
 0.0.16-java snappy-jars:~> 1.1.0|checksum:38cc5fc76fb56a39f64cb917761bdc1a2efb9691f257c26e22d5d104af2a8466
 0.0.17 |checksum:84ef62f6dad307eca7ff3416dc521ec08dcb48f9023017f3d01f9daa8bd0ff03
 0.0.17-java snappy-jars:~> 1.1.0|checksum:6dac4df832cb94c35601f527fe0e55e502fba5b19559c50037cf1b1bbcfc1001
+0.1.0 |checksum:8b920e15c2cbff2ce2d0d43dfed3dd33675c1a8fd38675ae9f7abcad6c0b19f4
+0.1.0-java snappy-jars:~> 1.1.0|checksum:f12ca5ad1dc8c648eb5222de1819cfeaae77e12ee38d2b40506b80bd7739626e
+0.2.0 |checksum:cffd94bad97eb5d4f034861e17dc8b40a2f02799b857135c9f14e6bd43268576
+0.2.0-java snappy-jars:~> 1.1.0|checksum:36d0fba646d933c79425ca3ecfb7f789b1ed5a664285d87c34df304824e37cbb

@@ -10,3 +10,5 @@
 1.1.4 aws-eventstream:>= 1.0.2&~> 1.0|checksum:551f9258a73d8816893471abb949ccd1b2b5d398d69368edd61c3ea4f35d2d55
 1.2.0 aws-eventstream:>= 1.0.2&~> 1|checksum:d1bb8228fbaf9d59db74522d2a52eaf2af1eeaa53ee9a6eccdfda40dbf35ebe4
 1.2.1 aws-eventstream:>= 1.0.2&~> 1|checksum:724007f14e4bd3a8ea0d358b1763fd2528f48cb8a213a47a8f03e733f080762a
+1.2.2 aws-eventstream:>= 1.0.2&~> 1|checksum:65438696f790a439447fb532921bf48f79166000904606cab950f4c0041a89d2
+1.2.3 aws-eventstream:>= 1.0.2&~> 1|checksum:5cd54a4bf2ccc077d890e5a004e72961f21672d287fbf3ee9cdfdd3a62853fb5
